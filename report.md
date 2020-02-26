@@ -22,7 +22,7 @@
 В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
 
     [Данные к заданию] (https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
-    [Написанный тестовый код] (https://github.com/AlexeySuchkov/HomeWork-2.0/blob/master/src/Main.java)
+    [Написанный тестовый код] (https://github.com/AlexeySuchkov/QA-MoneyTransfer/blob/master/src/Main.java)
     
 
 Тестирование производилось в следующем окружении:
